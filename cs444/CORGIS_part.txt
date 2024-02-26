@@ -1,0 +1,7 @@
+#id artist_name title release_name year end_of_fade_in start_of_fade_out loudness
+SOMZWCG12A8C13C480,Casual,I Didn't Mean To,Fear Itself,0,0.247,218.932,-11.197
+SOCIWDW12A8C13D406,The Box Tops,Soul Deep,Dimensions,1969,0.148,137.915,-9.843
+SOXVLOJ12AB0189215,Sonora Santanera,Amor De Cabaret,Las Numero 1 De La Sonora Santanera,0,0.282,172.304,-9.689
+SOUMWOQ12A8C13A949,Lisa Lynne,Lake Of Dreams,Daughters Of the Celtic Moon: A Windha Hill Collection featuring Lisa Lynne,1998,0.177,288.044,-12.811
+SOIUJEF12A8C13C878,Neil Sedaka,Because Of You,Love Songs,1999,0.0,165.32,-9.448
+SOXXFEW12AB017F2A8,Maurice Larcange,Un Peu D'Amour Et D'AmitiA(c),Joue Legrand & Becaud,0,0.334,211.453,-10.398

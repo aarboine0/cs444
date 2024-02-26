@@ -1,0 +1,3 @@
+/Users/Anyah1/CLionProjects/cs444/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/Anyah1/CLionProjects/cs444/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Anyah1/CLionProjects/cs444/cmake-build-debug/CMakeFiles/rebuild_cache.dir
